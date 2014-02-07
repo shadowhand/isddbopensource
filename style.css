@@ -1,0 +1,38 @@
+html {
+    font-size: 100%; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+    font-family: Helvetica, Arial, sans-serif;
+}
+body {
+    margin: 0;
+    line-height: 1.4em;
+    color: #111;
+    font-size: 3em;
+}
+body.nope {
+    background: #e6452b;
+}
+body.yup {
+    background: #a6e8a4;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+p {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 0;
+    margin: auto;
+    vertical-align: middle;
+    text-align: center;
+    height: 3em;
+    text-transform: uppercase;
+}
+p strong {
+    font-size: 0.6em;
+}
+

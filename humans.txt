@@ -1,0 +1,11 @@
+# humanstxt.org
+
+/* TEAM */
+
+Woody Gilk
+    @shadowhand
+    http://shadowhand.me/
+
+/* Site */
+
+Standards: HTML5, CSS
